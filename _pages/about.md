@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm currently pursuing my PhD at TMU's [Robotics and Computer Vision Lab](https://sajad-saeedi.ca/team/), where I focus on task allocation in Multi-Robot systems. These systems are becoming increasingly common in various industries such as logistics, manufacturing, mining, and more. My research aims to develop effective task allocation methods leveraging AI/ML, especially under uncertain conditions and with limited communication. Additionally, I'm also involved in research on AI based microplastic detection in water bodies.
+Hello, I'm currently pursuing my Ph.D. at TMU's [Robotics and Computer Vision Lab](https://sajad-saeedi.ca/team/), where I focus on task allocation in Multi-Robot systems. These systems are becoming increasingly common in various industries such as logistics, manufacturing, mining, and more. My research aims to develop effective task allocation methods leveraging AI/ML, especially under uncertain conditions and with limited communication. Additionally, I'm also involved in research on AI based microplastic detection in water bodies.
 
 From 2020 to 2022, I served as a Research Intern at the Robotics and Computer Vision Lab. During this tenure, I spearheaded a team of researchers in conceptualizing and constructing mobile robots designed for disinfection, aiming to combat the spread of infections, particularly during the COVID-19 pandemic
 
