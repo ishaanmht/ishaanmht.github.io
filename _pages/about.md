@@ -16,7 +16,6 @@ I earned my Master’s of Engineering degree with a specialization in autonomous
 Selected Projects
 ======
 <div class="column-container">
-  <div class="column"><img src="http://ishaanmht.github.io/files/imgs/mp.png" width="100"></div>
   <div class="column">
     <p><b>Morphological Detection and Classification of Microplastics and Nanoplastics Emerged from Consumer Products by Deep Learning</b>
     <br>Submitted to Arxiv
