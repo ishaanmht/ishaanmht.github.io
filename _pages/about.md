@@ -15,7 +15,29 @@ I earned my Master’s of Engineering degree with a specialization in autonomous
 
 Selected Projects
 ======
+<style>
+  .column-container {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+  }
+  
+  .column {
+    margin-right: 15px;
+  }
+  
+  .column img {
+    max-width: 125px;
+    height: auto;
+  }
+  
+  p {
+    margin: 0;
+  }
+</style>
+
 <div class="column-container">
+  <div class="column"><img src="http://ishaanmht.github.io/files/imgs/mp.png" width="125"></div>
   <div class="column">
     <p><b>Morphological Detection and Classification of Microplastics and Nanoplastics Emerged from Consumer Products by Deep Learning</b>
     <br>Submitted to Arxiv
@@ -23,9 +45,8 @@ Selected Projects
   </div>
 </div>
 
-------
 <div class="column-container">
-  <div class="column"><img src="http://ishaanmht.github.io/files/gifs/m3rs.gif" width="110"></div>
+  <div class="column"><img src="http://ishaanmht.github.io/files/gifs/m3rs.gif" width="125"></div>
   <div class="column">
     <p><b>M^3RS: Multi-robot, Multi-objective, and Multi-mode Routing and Scheduling</b>
     <br>Submitted to IEEE Robotics and Automation Letters
@@ -33,9 +54,8 @@ Selected Projects
   </div>
 </div>
 
-------
 <div class="column-container">
-  <div class="column"><img src="http://ishaanmht.github.io/files/imgs/panet.png" width="110"></div>
+  <div class="column"><img src="http://ishaanmht.github.io/files/imgs/panet.png" width="125"></div>
   <div class="column">
     <p><b>Pareto Frontier Approximation Network (PA-Net) to Solve Bi-objective TSP</b>
     <br>IEEE International Conference on Automation Science and Engineering 2022
@@ -44,9 +64,8 @@ Selected Projects
   </div>
 </div>
 
-------
 <div class="column-container">
-  <div class="column"><img src="http://ishaanmht.github.io/files/imgs/grobot1.png" width="110"></div>
+  <div class="column"><img src="http://ishaanmht.github.io/files/imgs/grobot1.png" width="125"></div>
   <div class="column">
     <p><b>Far-UVC disinfection with robotic mobile manipulator</b>
     <br>International Symposium on Medical Robotics 2022
@@ -55,7 +74,6 @@ Selected Projects
   </div>
 </div>
 
-------
 
 Volunteer Work
 ======
