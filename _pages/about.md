@@ -49,7 +49,7 @@ Selected Projects
   <div class="column"><img src="http://ishaanmht.github.io/files/gifs/m3rs.gif" width="125"></div>
   <div class="column">
     <p><b>M^3RS: Multi-robot, Multi-objective, and Multi-mode Routing and Scheduling</b>
-    <br>Submitted to IEEE Robotics and Automation Letters
+    <br>Submitted to IEEE Systems
     <br><a href="https://arxiv.org/abs/2403.16275" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://sites.google.com/view/g-robot/m3rs/" target="_blank" rel="noopener noreferrer">Project</a>.</p>
   </div>
 </div>
