@@ -7,11 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm currently pursuing my Ph.D. at TMU's [Robotics and Computer Vision Lab](https://sajad-saeedi.ca/team/), where I focus on task allocation in Multi-Robot systems. These systems are becoming increasingly common in various industries such as logistics, manufacturing, mining, and more. My research aims to develop effective task allocation methods leveraging AI/ML, especially under uncertain conditions and with limited communication. Additionally, I'm also involved in research on AI based microplastic detection in water bodies.
+Hello! I’m **Ishaan Mehta**, a final-year Ph.D. candidate at [Toronto Metropolitan University (TMU)](https://www.torontomu.ca/), working at the [Robotics and Computer Vision Lab (RCVL)](https://sajad-saeedi.ca/team/).  
+My research focuses on **planning and task allocation in multi-robot systems** designed for **service-oriented applications** — such as logistics, manufacturing, and facility management — where fleets of robots must collaborate efficiently and adapt to changing environments.
 
-From 2020 to 2022, I served as a Research Intern at the Robotics and Computer Vision Lab. During this tenure, I spearheaded a team of researchers in conceptualizing and constructing mobile robots designed for disinfection, aiming to combat the spread of infections, particularly during the COVID-19 pandemic
+I have **8+ years of experience developing autonomous robotic systems**, including drones, self-driving cars, ground robots, and robotic manipulators, with a focus on **planning, perception, SLAM, and multi-robot coordination**.  
+My work combines **optimization and deep learning**, particularly reinforcement learning and generative models, to develop scalable solutions for **robot decision-making** and **environment modeling**.
 
-I earned my Master’s of Engineering degree with a specialization in autonomous robotics from the University of Toronto Institute of Aerospace Studies (2018-2022). Prior to that, I completed my Bachelor's degree in Engineering in Mechatronics at Thapar University. [CV](https://ishaanmht.github.io/files/Mehta_Ishaan_CV.pdf)
+My broader research spans:
+- **Multi-robot task allocation and distributed planning**
+- **Dense SLAM, Gaussian Splatting, and Neural Radiance Fields (NeRFs)** for 3D scene understanding  
+- **Manipulation and motion planning** for intelligent robot behaviors  
+- **Deep reinforcement learning** for vision and planning tasks  
+
+Over the course of my academic journey, I’ve contributed to **11+ publications** (including under review) in top-tier robotics and AI venues.  
+I have collaborated with **20+ researchers** across academia and industry, led research teams, and mentored students in robotics and AI. My work emphasizes **bridging theoretical advances with practical implementation**, through **prototyping**, **experimental validation**, and **commercialization initiatives**.
+
+From 2020 to 2022, I served as a **Research Intern** at the RCVL Lab, where I led a team in designing and developing **UV-disinfection mobile robots** to combat infection spread during the COVID-19 pandemic — a project that strengthened my passion for applying robotics to real-world societal challenges.
+
+I earned my **Master of Engineering in Autonomous Robotics** from the **University of Toronto Institute for Aerospace Studies (UTIAS)**, where I worked on robotic perception and control.  
+Before that, I completed my **Bachelor of Engineering in Mechatronics** from **Thapar University**, India.
+
+You can view my detailed academic background and publications here:  
+[**Download CV →**](https://ishaanmht.github.io/files/Mehta_Ishaan_CV.pdf)
 
 Selected Projects
 ======
@@ -34,13 +51,50 @@ Selected Projects
   p {
     margin: 0;
   }
+
+  
+    \item \textbf{Ishaan Mehta}, Sharareh Taghipour, and Sajad Saeedi, “RTSP-Net: Reinforcement Learning-Based Robotic Task Sequencing for Robotic Manipulators in Obstacle-Rich Environments,” under review at the \textit{International Conference on Robotics and Automation (ICRA)}, 2026.
+
+    \item \textbf{Ishaan Mehta}, Junseo Kim, Sharareh Taghipour, and Sajad Saeedi, “M3RS: Multi-agent, Multi-objective, and Multi-mode Routing and Scheduling,” under review at the \textit{Journal of Field Robotics (JFR)}.
+
+    \item Mahboubeh Asadi, \textbf{Ishaan Mehta}, Kourosh Zareinia, Wenbin Li, and Sajad Saeedi, “ConSplat: Consensus Optimization for Distributed Gaussian Splatting SLAM,” under review at the \textit{International Conference on Robotics and Automation (ICRA)}, 2026.
+
+    \item Mahboubeh Asadi, \textbf{Ishaan Mehta}, Kourosh Zareinia, Wenbin Li, and Sajad Saeedi, “SplatUnity: A Collaborative Online SLAM and Learning Framework with 3D Gaussian Splatting and Inter-Agent Pose Alignment,” under review at \textit{IEEE Robotics and Automation Letters (RAL)}.
 </style>
+<div class="column-container">
+  <div class="column"><img src="http://ishaanmht.github.io/files/gifs/rtspnet.gif" width="125"></div>
+  <div class="column">
+    <p><b>RTSP-Net: Reinforcement Learning-Based Robotic Task Sequencing for Robotic Manipulators in Obstacle-Rich Environments</b>
+    <br> Submitted to International Conference on Robotics and Automation (ICRA) 2026
+    <br><a href="https://arxiv.org/abs/2403.16275" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://sites.google.com/view/g-robot/m3rs/" target="_blank" rel="noopener noreferrer">Project</a>.</p>
+  </div>
+</div>
+
+</style>
+<div class="column-container">
+  <div class="column"><img src="http://ishaanmht.github.io/files/gifs/consplat.gif" width="125"></div>
+  <div class="column">
+    <p><b>ConSplat: Consensus Optimization for Distributed Gaussian Splatting SLAM</b>
+    <br>Submitted to International Conference on Robotics and Automation (ICRA) 2026
+    <br><a href="https://arxiv.org/abs/2403.16275" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://sites.google.com/view/g-robot/m3rs/" target="_blank" rel="noopener noreferrer">Project</a>.</p>
+  </div>
+</div>
+
+</style>
+<div class="column-container">
+  <div class="column"><img src="http://ishaanmht.github.io/files/gifs/splatunity.gif" width="125"></div>
+  <div class="column">
+    <p><b>ConSplat: Consensus Optimization for Distributed Gaussian Splatting SLAM</b>
+    <br>Submitted to IEEE Robotics and Automation Letters
+    <br><a href="https://arxiv.org/abs/2403.16275" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://sites.google.com/view/g-robot/m3rs/" target="_blank" rel="noopener noreferrer">Project</a>.</p>
+  </div>
+</div>
 
 <div class="column-container">
   <div class="column"><img src="http://ishaanmht.github.io/files/imgs/mp.png" width="125"></div>
   <div class="column">
     <p><b>Morphological Detection and Classification of Microplastics and Nanoplastics Emerged from Consumer Products by Deep Learning</b>
-    <br>Submitted to Arxiv
+    <br>Submitted to Science of the Total Environment
     <br><a href="https://arxiv.org/pdf/2409.13688" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://sites.google.com/view/mp-detection-classification/home" target="_blank" rel="noopener noreferrer">Project</a>.</p>
   </div>
 </div>
@@ -49,7 +103,7 @@ Selected Projects
   <div class="column"><img src="http://ishaanmht.github.io/files/gifs/m3rs.gif" width="125"></div>
   <div class="column">
     <p><b>M^3RS: Multi-robot, Multi-objective, and Multi-mode Routing and Scheduling</b>
-    <br>Submitted to IEEE Systems
+    <br>Submitted to Journal of Field Robotics
     <br><a href="https://arxiv.org/abs/2403.16275" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://sites.google.com/view/g-robot/m3rs/" target="_blank" rel="noopener noreferrer">Project</a>.</p>
   </div>
 </div>
@@ -77,7 +131,7 @@ Selected Projects
 
 Volunteer Work
 ======
-I'm an active volunteer with the Art of Living Foundation, dedicated to promoting breathwork and meditation for stress relief and inner peace. Amidst the COVID-19 pandemic, I initiated daily virtual sessions offering free breathwork and meditation to help individuals combat stress and exhaustion. [Here is some research about the impact of breathwork on stress and wellness.](https://news.yale.edu/2020/07/27/improve-students-mental-health-yale-study-finds-teach-them-breathe?fbclid=IwAR0vZ5zRwuY6jZ7tGrLSy3U2gOhCYi1xAMj6d-oF-_g9mOW8Kn19Bb0M_W0)
+I'm an active volunteer with the Art of Living Foundation, dedicated to promoting breathwork and meditation for stress relief and inner peace. Amidst the COVID-19 pandemic, I initiated daily virtual sessions offering free breathwork and meditation to help individuals combat stress and exhaustion. Further, I actively engage with SKY Campus Canada to promote well being in student community through breathwork and meditation. [Here is some research about the impact of breathwork on stress and wellness.](https://news.yale.edu/2020/07/27/improve-students-mental-health-yale-study-finds-teach-them-breathe?fbclid=IwAR0vZ5zRwuY6jZ7tGrLSy3U2gOhCYi1xAMj6d-oF-_g9mOW8Kn19Bb0M_W0)
 
 Contact
 ------
