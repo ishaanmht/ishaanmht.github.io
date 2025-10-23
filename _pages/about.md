@@ -66,13 +66,13 @@ Selected Projects
   <div class="column">
     <p><b>RTSP-Net: Reinforcement Learning-Based Robotic Task Sequencing for Robotic Manipulators in Obstacle-Rich Environments</b>
     <br> Submitted to International Conference on Robotics and Automation (ICRA) 2026
-    <br><a href="https://arxiv.org/abs/2403.16275" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://sites.google.com/view/g-robot/m3rs/" target="_blank" rel="noopener noreferrer">Project</a>.</p>
+    <br><a href="https://sites.google.com/view/rtsp-net/" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://sites.google.com/view/rtsp-net/" target="_blank" rel="noopener noreferrer">Project</a>.</p>
   </div>
 </div>
 
 </style>
 <div class="column-container">
-  <div class="column"><img src="http://ishaanmht.github.io/files/imgs/consplat.jpg" width="125"></div>
+  <div class="column"><img src="http://ishaanmht.github.io/files/imgs/consplat.png" width="125"></div>
   <div class="column">
     <p><b>ConSplat: Consensus Optimization for Distributed Gaussian Splatting SLAM</b>
     <br>Submitted to International Conference on Robotics and Automation (ICRA) 2026
@@ -82,11 +82,11 @@ Selected Projects
 
 </style>
 <div class="column-container">
-  <div class="column"><img src="http://ishaanmht.github.io/files/imgs/splatunity.png" width="125"></div>
+  <div class="column"><img src="http://ishaanmht.github.io/files/imgs/splatunity.gif" width="125"></div>
   <div class="column">
-    <p><b>ConSplat: Consensus Optimization for Distributed Gaussian Splatting SLAM</b>
+    <p><b>SplatUnity: A Collaborative Online SLAM and Learning Framework with 3D Gaussian Splatting and Inter-Agent Pose Alignment</b>
     <br>Submitted to IEEE Robotics and Automation Letters
-    <br><a href="https://arxiv.org/abs/2403.16275" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://sites.google.com/view/g-robot/m3rs/" target="_blank" rel="noopener noreferrer">Project</a>.</p>
+    <br><a href="https://sites.google.com/view/splatunity" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://sites.google.com/view/splatunity" target="_blank" rel="noopener noreferrer">Project</a>.</p>
   </div>
 </div>
 
