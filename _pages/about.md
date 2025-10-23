@@ -70,7 +70,6 @@ Selected Projects
   </div>
 </div>
 
-</style>
 <div class="column-container">
   <div class="column"><img src="http://ishaanmht.github.io/files/imgs/consplat.png" width="125"></div>
   <div class="column">
@@ -80,7 +79,6 @@ Selected Projects
   </div>
 </div>
 
-</style>
 <div class="column-container">
   <div class="column"><img src="http://ishaanmht.github.io/files/imgs/splatunity.gif" width="125"></div>
   <div class="column">
