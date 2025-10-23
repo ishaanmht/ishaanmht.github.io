@@ -80,7 +80,7 @@ Selected Projects
 </div>
 
 <div class="column-container">
-  <div class="column"><img src="http://ishaanmht.github.io/files/imgs/splatunity.gif" width="125"></div>
+  <div class="column"><img src="http://ishaanmht.github.io/files/gifs/splatunity.gif" width="125"></div>
   <div class="column">
     <p><b>SplatUnity: A Collaborative Online SLAM and Learning Framework with 3D Gaussian Splatting and Inter-Agent Pose Alignment</b>
     <br>Submitted to IEEE Robotics and Automation Letters
