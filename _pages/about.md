@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hello! I’m **Ishaan Mehta**, a final-year Ph.D. candidate at [Toronto Metropolitan University (TMU)](https://www.torontomu.ca/), working at the [Robotics and Computer Vision Lab (RCVL)](https://sajad-saeedi.ca/team/).  
-My research focuses on **planning and task allocation in multi-robot systems** designed for **service-oriented applications** — such as logistics, manufacturing, and facility management — where fleets of robots must collaborate efficiently and adapt to changing environments.
+My research focuses on **planning and task allocation in multi-robot systems** designed for **service-oriented applications** — such as logistics, and facility management — where fleets of robots must collaborate efficiently and adapt to changing environments.
 
 I have **8+ years of experience developing autonomous robotic systems**, including drones, self-driving cars, ground robots, and robotic manipulators, with a focus on **planning, perception, SLAM, and multi-robot coordination**.  
 My work combines **optimization and deep learning**, particularly reinforcement learning and generative models, to develop scalable solutions for **robot decision-making** and **environment modeling**.
