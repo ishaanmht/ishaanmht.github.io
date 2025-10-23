@@ -72,7 +72,7 @@ Selected Projects
 
 </style>
 <div class="column-container">
-  <div class="column"><img src="http://ishaanmht.github.io/files/gifs/consplat.gif" width="125"></div>
+  <div class="column"><img src="http://ishaanmht.github.io/files/imgs/consplat.jpg" width="125"></div>
   <div class="column">
     <p><b>ConSplat: Consensus Optimization for Distributed Gaussian Splatting SLAM</b>
     <br>Submitted to International Conference on Robotics and Automation (ICRA) 2026
@@ -82,7 +82,7 @@ Selected Projects
 
 </style>
 <div class="column-container">
-  <div class="column"><img src="http://ishaanmht.github.io/files/gifs/splatunity.gif" width="125"></div>
+  <div class="column"><img src="http://ishaanmht.github.io/files/imgs/splatunity.png" width="125"></div>
   <div class="column">
     <p><b>ConSplat: Consensus Optimization for Distributed Gaussian Splatting SLAM</b>
     <br>Submitted to IEEE Robotics and Automation Letters
