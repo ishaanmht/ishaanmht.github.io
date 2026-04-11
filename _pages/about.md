@@ -64,7 +64,7 @@ Selected Projects
   <div class="column"><img src="http://ishaanmht.github.io/files/gifs/rtspnet.gif" width="125"></div>
   <div class="column">
     <p><b>RTSP-Net: Reinforcement Learning-Based Robotic Task Sequencing for Robotic Manipulators in Obstacle-Rich Environments</b>
-    <br> Submitted to \textit{IEEE Robotics and Automation Letters (RAL)}
+    <br> Submitted to IEEE Robotics and Automation Letters
     <br><a href="https://sites.google.com/view/rtsp-net/" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://sites.google.com/view/rtsp-net/" target="_blank" rel="noopener noreferrer">Project</a>.</p>
   </div>
 </div>
