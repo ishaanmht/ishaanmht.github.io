@@ -19,16 +19,17 @@ My broader research spans:
 - **Manipulation and motion planning** for intelligent robot behaviors  
 - **Deep reinforcement learning** for vision and planning tasks  
 
-Over the course of my academic journey, I’ve contributed to **11+ publications** (including under review) in top-tier robotics and AI venues.  
-I have collaborated with **20+ researchers** across academia and industry, led research teams, and mentored students in robotics and AI. My work emphasizes **bridging theoretical advances with practical implementation**, through **prototyping**, **experimental validation**, and **commercialization initiatives**.
+Over the course of my academic journey, I’ve contributed to **11+ publications** (including under review) in top-tier robotics and AI venues. I have collaborated with **20+ researchers** across academia and industry, led research teams, and mentored students in robotics and AI. My work emphasizes **bridging theoretical advances with practical implementation**, through **prototyping**, **experimental validation**, and **commercialization initiatives**.
 
-From 2020 to 2022, I served as a **Research Intern** at the RCVL Lab, where I led a team in designing and developing **UV-disinfection mobile robots** to combat infection spread during the COVID-19 pandemic — a project that strengthened my passion for applying robotics to real-world societal challenges.
+Most recently, from January 2026 to May 2026, I interned at the **Vector Institute** as a Machine Learning Associate. In collaboration with **Geomate**, I led the development of an agentic simulation pipeline for the automated generation of safety-critical and diverse traffic scenarios, aiming to enhance the evaluation and commercial deployment potential of autonomous driving systems.
+
+Previously, from 2020 to 2022, I served as a **Research Intern** at the RCVL Lab, where I led a team in designing and developing **UV-disinfection mobile robots** to combat infection spread during the COVID-19 pandemic — a project that strengthened my passion for applying robotics to real-world societal challenges.
 
 I earned my **Master of Engineering in Autonomous Robotics** from the **University of Toronto Institute for Aerospace Studies (UTIAS)**, where I worked on robotic perception and control.  
 Before that, I completed my **Bachelor of Engineering in Mechatronics** from **Thapar University**, India.
 
-You can view my detailed academic background and publications here:  
-[**Download CV →**](https://ishaanmht.github.io/files/Mehta_Ishaan_CV.pdf)
+You can view my detailed academic background and publications here:
+[**Download Resume →**](https://ishaanmht.github.io/files/Resume_Mehta,Ishaan.pdf)
 
 Selected Projects
 ======
@@ -53,11 +54,9 @@ Selected Projects
   }
 
   
-    \item \textbf{Ishaan Mehta}, Sharareh Taghipour, and Sajad Saeedi, “RTSP-Net: Reinforcement Learning-Based Robotic Task Sequencing for Robotic Manipulators in Obstacle-Rich Environments,” under review at the \textit{International Conference on Robotics and Automation (ICRA)}, 2026.
+    \item \textbf{Ishaan Mehta}, Sharareh Taghipour, and Sajad Saeedi, “RTSP-Net: Reinforcement Learning-Based Robotic Task Sequencing for Robotic Manipulators in Obstacle-Rich Environments,” under review at \textit{IEEE Robotics and Automation Letters (RAL)}.
 
     \item \textbf{Ishaan Mehta}, Junseo Kim, Sharareh Taghipour, and Sajad Saeedi, “M3RS: Multi-agent, Multi-objective, and Multi-mode Routing and Scheduling,” under review at the \textit{Journal of Field Robotics (JFR)}.
-
-    \item Mahboubeh Asadi, \textbf{Ishaan Mehta}, Kourosh Zareinia, Wenbin Li, and Sajad Saeedi, “ConSplat: Consensus Optimization for Distributed Gaussian Splatting SLAM,” under review at the \textit{International Conference on Robotics and Automation (ICRA)}, 2026.
 
     \item Mahboubeh Asadi, \textbf{Ishaan Mehta}, Kourosh Zareinia, Wenbin Li, and Sajad Saeedi, “SplatUnity: A Collaborative Online SLAM and Learning Framework with 3D Gaussian Splatting and Inter-Agent Pose Alignment,” under review at \textit{IEEE Robotics and Automation Letters (RAL)}.
 </style>
@@ -65,19 +64,11 @@ Selected Projects
   <div class="column"><img src="http://ishaanmht.github.io/files/gifs/rtspnet.gif" width="125"></div>
   <div class="column">
     <p><b>RTSP-Net: Reinforcement Learning-Based Robotic Task Sequencing for Robotic Manipulators in Obstacle-Rich Environments</b>
-    <br> Submitted to International Conference on Robotics and Automation (ICRA) 2026
+    <br> Submitted to \textit{IEEE Robotics and Automation Letters (RAL)}
     <br><a href="https://sites.google.com/view/rtsp-net/" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://sites.google.com/view/rtsp-net/" target="_blank" rel="noopener noreferrer">Project</a>.</p>
   </div>
 </div>
 
-<div class="column-container">
-  <div class="column"><img src="http://ishaanmht.github.io/files/imgs/consplat.png" width="125"></div>
-  <div class="column">
-    <p><b>ConSplat: Consensus Optimization for Distributed Gaussian Splatting SLAM</b>
-    <br>Submitted to International Conference on Robotics and Automation (ICRA) 2026
-    <br><a href="https://arxiv.org/abs/2403.16275" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://sites.google.com/view/g-robot/m3rs/" target="_blank" rel="noopener noreferrer">Project</a>.</p>
-  </div>
-</div>
 
 <div class="column-container">
   <div class="column"><img src="http://ishaanmht.github.io/files/gifs/splatunity.gif" width="125"></div>
