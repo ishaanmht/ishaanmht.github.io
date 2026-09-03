@@ -26,7 +26,7 @@ Most recently, I worked as a Machine Learning Associate at the Vector Institute,
 I earned my Master of Engineering in Autonomous Robotics from the University of Toronto Institute for Aerospace Studies (UTIAS) and my Bachelor of Engineering in Mechatronics from Thapar University.
 
 You can find more details about my research, publications, and projects below.
-[**Download Resume →**](https://ishaanmht.github.io/files/Resume_Mehta,Ishaan.pdf)
+[**Download Resume →**](https://ishaanmht.github.io/files/Mehta_Ishaan_Resume_.pdf)
 
 Selected Projects
 ======
