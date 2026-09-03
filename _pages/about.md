@@ -7,28 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m **Ishaan Mehta**, a final-year Ph.D. candidate at [Toronto Metropolitan University (TMU)](https://www.torontomu.ca/), working at the [Robotics and Computer Vision Lab (RCVL)](https://sajad-saeedi.ca/team/).  
-My research focuses on **planning and task allocation in multi-robot systems** designed for **service-oriented applications** — such as logistics, and facility management — where fleets of robots must collaborate efficiently and adapt to changing environments.
+Hello! I’m Ishaan Mehta, a final-year Ph.D. candidate at [Toronto Metropolitan University (TMU)](https://www.torontomu.ca/), working with the [Robotics and Computer Vision Lab (RCVL)](https://sajad-saeedi.ca/team/).
 
-I have **8+ years of experience developing autonomous robotic systems**, including drones, self-driving cars, ground robots, and robotic manipulators, with a focus on **planning, perception, SLAM, and multi-robot coordination**.  
-My work combines **optimization and deep learning**, particularly reinforcement learning and generative models, to develop scalable solutions for **robot decision-making** and **environment modeling**.
+My research spans robot learning, planning, perception, and multi-robot systems. I have 8+ years of experience developing autonomous robotic systems, including drones, self-driving cars, mobile robots, and robotic manipulators. My work covers the robotics stack from SLAM, 3D perception, and spatial mapping to manipulation planning, reinforcement learning, and multi-robot coordination. I am particularly interested in how deep learning can be combined with well-established classical and physics-informed methods to build robotic systems that are both adaptable and reliable.
 
-My broader research spans:
-- **Multi-robot task allocation and distributed planning**
-- **Dense SLAM, Gaussian Splatting, and Neural Radiance Fields (NeRFs)** for 3D scene understanding  
-- **Manipulation and motion planning** for intelligent robot behaviors  
-- **Deep reinforcement learning** for vision and planning tasks  
+My broader research interests include:
 
-Over the course of my academic journey, I’ve contributed to **11+ publications** (including under review) in top-tier robotics and AI venues. I have collaborated with **20+ researchers** across academia and industry, led research teams, and mentored students in robotics and AI. My work emphasizes **bridging theoretical advances with practical implementation**, through **prototyping**, **experimental validation**, and **commercialization initiatives**.
+* Reinforcement learning for planning and decision-making
+* Manipulation, task sequencing, and motion planning
+* Multi-robot task allocation and distributed planning
+* SLAM, 3D Gaussian Splatting, and neural scene representations
+* Embodied and agentic AI for real-world robotic systems
 
-Most recently, from January 2026 to May 2026, I interned at the **Vector Institute** as a Machine Learning Associate. In collaboration with **Geomate**, I led the development of an agentic simulation pipeline for the automated generation of safety-critical and diverse traffic scenarios, aiming to enhance the evaluation and commercial deployment potential of autonomous driving systems.
+I have contributed to 11+ publications (including work under review), collaborated with 20+ researchers, and mentored students across robotics and AI projects. A recurring theme in my work is translating research ideas into practical systems through prototyping, rigorous evaluation, and real-robot validation.
 
-Previously, from 2020 to 2022, I served as a **Research Intern** at the RCVL Lab, where I led a team in designing and developing **UV-disinfection mobile robots** to combat infection spread during the COVID-19 pandemic — a project that strengthened my passion for applying robotics to real-world societal challenges.
+Most recently, I worked as a Machine Learning Associate at the Vector Institute, where I collaborated with Geomate on an agentic simulation pipeline for generating diverse, safety-critical autonomous-driving scenarios. Previously, I helped develop UV-disinfection mobile robots at RCVL for real-world deployment during the COVID-19 pandemic.
 
-I earned my **Master of Engineering in Autonomous Robotics** from the **University of Toronto Institute for Aerospace Studies (UTIAS)**, where I worked on robotic perception and control.  
-Before that, I completed my **Bachelor of Engineering in Mechatronics** from **Thapar University**, India.
+I earned my Master of Engineering in Autonomous Robotics from the University of Toronto Institute for Aerospace Studies (UTIAS) and my Bachelor of Engineering in Mechatronics from Thapar University.
 
-You can view my detailed academic background and publications here:
+You can find more details about my research, publications, and projects below.
 [**Download Resume →**](https://ishaanmht.github.io/files/Resume_Mehta,Ishaan.pdf)
 
 Selected Projects
