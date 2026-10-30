@@ -68,7 +68,7 @@ Selected Projects
 </div>
 
 <div class="column-container">
-  <div class="column"><img src="http://ishaanmht.github.io/files/imgs/race_office2.gif" width="125"></div>
+  <div class="column"><img src="http://ishaanmht.github.io/files/imgs/powr.png" width="125"></div>
   <div class="column">
     <p><b>Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors</b>
     <br>Submitted to ICRA 2027
